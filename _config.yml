@@ -1,12 +1,13 @@
 markdown: rdiscount
 permalink: /:title/
-baseurl: /myjekyll
+url: http://yangfeng1990.github.com/myjekyll/
+baseurl: /net
 name: yangcong
 author: Yonsm
 qq: xxxx
 email: zwei1990@mail.ustc.edu.cn
 duoshuo: yonsm
-beian: ’„ICP±∏12026616∫≈
+beian: ÊµôICPÂ§á12026616Âè∑
 cnzz: 119959
 weibo: 1885061391
 github: yangfeng1990
