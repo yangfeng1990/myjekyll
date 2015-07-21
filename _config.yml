@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+baseurl: /myjekyll
+name: yangcong
+author: Yonsm
+qq: xxxx
+email: zwei1990@mail.ustc.edu.cn
+duoshuo: yonsm
+beian: ’„ICP±∏12026616∫≈
+cnzz: 119959
+weibo: 1885061391
+github: yangfeng1990
+pygments: true
+safe: true
+paginate: 20
+about: "weizhang  dddd"
